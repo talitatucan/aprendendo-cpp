@@ -10,3 +10,4 @@ sites que usei com as questões:
 
 [C++ Progressvivo](https://www.cmmprogressivo.net/2019/12/Lista-exercicios-resolvidos-funcao-Cpp.html#google_vignette)
 
+Outras questões são do meu curso, quando estudava algoritmo.
