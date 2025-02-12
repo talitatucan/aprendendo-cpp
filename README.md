@@ -8,8 +8,8 @@ gif de título feito no site:
 
 sites que usei com as questões:
 
-[C++ Progressvivo](https://www.cmmprogressivo.net/2019/12/Lista-exercicios-resolvidos-funcao-Cpp.html#google_vignette)
+[C++ Progressvivo](https://www.cmmprogressivo.net/2019/12/Lista-exercicios-resolvidos-funcao-Cpp.html#google_vignette) - Atividades de funções.
 
-[C++ Progressvivo](https://www.cmmprogressivo.net/2019/10/exercicios-basicos-de-cpp.html)
+[C++ Progressvivo](https://www.cmmprogressivo.net/2019/10/exercicios-basicos-de-cpp.html) - Atividades básicas.
 
 Outras questões são do meu curso, quando estudava algoritmo.
